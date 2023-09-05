@@ -1,0 +1,9 @@
+/* SearchWeather.css */
+.custom-card {
+    background-size: cover;
+    background-position: center;
+    min-height: 100%; /* Ensure the card takes up the full viewport height */
+  }
+  
+
+ 
