@@ -60,7 +60,7 @@ function SearchWeather() {
         // Define a mapping of weather conditions to image URLs
         const weatherImages = {
             clouds: 'Clouds.jpg',
-            thunderstorm: 'Thunderstorm.jpg',
+            thunderstorm: 'Thunderstrom.jpg',
             drizzle: 'Drizzle.jpg',
             rain: 'Rain.jpg',
             snow: 'Snow.jpg',
